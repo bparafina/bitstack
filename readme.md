@@ -8,3 +8,5 @@ Goals:
 	- deploy code
 		(django with a ping?)
 	- health check
+	
+	- test git gutter
